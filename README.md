@@ -32,9 +32,3 @@ python gui.py
 *   **Arkusz Dashboard:** Średnie ceny za $m^2$ wg miast, udział % typów ofert i kluczowe metryki rynkowe
 *   **Arkusz Dane:** Kompletna tabela z aktywnymi linkami do ofert i parametrami technicznymi
 *   **Arkusz Analiza:** Rankingi TOP 10 ofert z najkorzystniejszą ceną za $m^2$
-
----
-*Status projektu: Gotowy do wdrożenia biznesowego.*
-*Autor: Damian Bisewski*
-
----
