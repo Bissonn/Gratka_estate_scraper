@@ -1,4 +1,4 @@
-### *Automatyzacja Selekcji Ofert Nieruchomości*
+# *Automatyzacja Selekcji Ofert Nieruchomości*
 
 System zaprojektowany w celu wyeliminowania szumu informacyjnego z rynku nieruchomości. Narzędzie automatycznie przeszukuje serwis Gratka.pl, filtruje oferty i generuje estetyczny, w pełni funkcjonalny dashboard analityczny w formacie `.xlsx`.
 
